@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @saifurrahman1193
+- 👋 Hi, I’m Saifur Rahman
 - 👀 I’m interested in Software Development
+  - Laravel
+  - React
+  - Vue
+  - MySQL   
 - 🌱 I’m currently learning different stacks of software development
 
 
