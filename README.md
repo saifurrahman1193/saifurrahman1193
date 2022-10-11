@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saifurrahman1193
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently different stacks of software development
+- 🌱 I’m currently learning different stacks of software development
 
 
 <!---
