@@ -4,6 +4,7 @@
   - React
   - Vue
   - MySQL   
+  - Nodejs 
 - 🌱 I’m currently learning different stacks of software development
 
 
