@@ -5,6 +5,7 @@
   - Vue
   - MySQL   
   - Nodejs 
+  - Raw PHP 
 - 🌱 I’m currently learning different stacks of software development
 
 
