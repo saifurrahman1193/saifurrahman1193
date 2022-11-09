@@ -11,12 +11,11 @@ Software Engineer with 4+ years experience in web app development. Skilled in La
 
 
 #### Technology:
-  - Laravel
-  - React
-  - Vue
-  - MySQL   
-  - Nodejs 
-  - Raw PHP 
+
+
+|Laravel|React|Vue|MySQL|Nodejs|Raw PHP |
+|-|-|-|-|-|-|
+ 
 
 
 **Portfolio:** <a href="[saifurrahman.my.canva.site](https://saifurrahman.my.canva.site)" target=_blank>https://saifurrahman.my.canva.site</a>
