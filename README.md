@@ -8,7 +8,7 @@ Software Engineer with **4+** years experience in web app development. Skilled i
 
 
 #### Projects 
-1. OTL-ERP (Import, Export, Inventory)
+1. OTL-ERP (Decision Points, Import, Export, Inventory/Warehouse, Merchandiser, Marketing Persons)
 2. CMP
 3. VR
 4. Embedded Push Pull
