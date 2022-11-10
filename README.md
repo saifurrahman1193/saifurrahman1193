@@ -4,9 +4,7 @@ Software Engineer with **4+** years experience in web app development. Skilled i
 
 #### Portfolio: <a href="[https://saifurrahman.my.canva.site](https://saifurrahman.my.canva.site)" target="_blank">https://saifurrahman.my.canva.site</a>
 
-<a href="https://www.linkedin.com/in/saifurrahman1193/" target="_blank">LinkedIn</a> | <a href="https://stackoverflow.com/users/14350717/md-saifur-rahman" target="_blank">Stack Overflow</a>
-
-[LinkedIn](https://www.linkedin.com/in/saifurrahman1193/)
+[LinkedIn](https://www.linkedin.com/in/saifurrahman1193/) | [Stack Overflow](https://stackoverflow.com/users/14350717/md-saifur-rahman)
 
 
 #### Projects 
