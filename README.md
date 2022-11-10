@@ -2,9 +2,9 @@
 #### About Me
 Software Engineer with **4+** years experience in web app development. Skilled in Laravel, REST API, Node.js, React, Vue, Oracle Database 11g, MySQL. With such skill sets, goal oriented hard working and by solving problems, I have proved myself as a key team player.
 
-#### Portfolio: <a href="https://saifurrahman.my.canva.site" target="_blank">https://saifurrahman.my.canva.site</a>
+#### Portfolio: <a href="[https://saifurrahman.my.canva.site](https://saifurrahman.my.canva.site)" target="_blank">https://saifurrahman.my.canva.site</a>
 
-<a href="https://www.linkedin.com/in/saifurrahman1193/" target="_blank">LinkedIn</a> | <a href="https://stackoverflow.com/users/14350717/md-saifur-rahman" target="_blank">Stack Overflow</a>
+<a href="[https://www.linkedin.com/in/saifurrahman1193/](https://www.linkedin.com/in/saifurrahman1193/)" target="_blank">LinkedIn</a> | <a href="[https://stackoverflow.com/users/14350717/md-saifur-rahman](https://stackoverflow.com/users/14350717/md-saifur-rahman)" target="_blank">Stack Overflow</a>
 
 
 #### Projects 
