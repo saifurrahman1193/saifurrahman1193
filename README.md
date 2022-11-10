@@ -4,6 +4,25 @@ Software Engineer with **4+** years experience in web app development. Skilled i
 
 **Portfolio:** <a href="[saifurrahman.my.canva.site](https://saifurrahman.my.canva.site)" target=_blank>https://saifurrahman.my.canva.site</a>
 
+#### Projects 
+1. OTL-ERP (Import, Export, Inventory)
+2. CMP
+3. VR
+4. Embedded Push Pull
+5. Games
+6. PerfumehouseBD
+7. Medicine For World
+8. Rongila
+9. Maasranga & Radio Din Raat
+10. Banglalink SDP API integration
+11. Parmeeda Order Management System
+12. Ghoori Bkash
+13. Coke Studio Bangla Live Campaign
+14. Attendance Software: (Based on ZKTeco Device)
+
+
+
+
 #### Stacks:
 - Laravel API, MySQL, React
 - Laravel API, MySQL, Vue        
