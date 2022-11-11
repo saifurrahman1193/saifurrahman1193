@@ -1,13 +1,13 @@
 ###  Mohammad Saifur Rahman
-##### Software Associate at SSL Wireless
+**Software Associate** at **SSL Wireless**
 
-#### About Me
+### About Me
 Software Engineer with **4+** years experience in web app development. Skilled in Laravel, REST API, Node.js, React, Vue, Oracle Database 11g, MySQL. With such skill sets, goal oriented hard working and by solving problems, I have proved myself as a key team player.
 
-#### Profiles: [Portfolio](https://saifurrahman.my.canva.site) | [CV](https://docs.google.com/document/d/1txBCiMjPqH7GR8FDMQMAw09vemsB-nJb/edit?usp=sharing&ouid=113622980255867007734&rtpof=true&sd=true) | [LinkedIn](https://www.linkedin.com/in/saifurrahman1193/) | [Github](https://github.com/saifurrahman1193/saifurrahman1193) | [Stack Overflow](https://stackoverflow.com/users/14350717/md-saifur-rahman) | [Hackerrank](https://www.hackerrank.com/saifur_rahman111) | [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/18847)
+### Profiles: [Portfolio](https://saifurrahman.my.canva.site) | [CV](https://docs.google.com/document/d/1txBCiMjPqH7GR8FDMQMAw09vemsB-nJb/edit?usp=sharing&ouid=113622980255867007734&rtpof=true&sd=true) | [LinkedIn](https://www.linkedin.com/in/saifurrahman1193/) | [Github](https://github.com/saifurrahman1193/saifurrahman1193) | [Stack Overflow](https://stackoverflow.com/users/14350717/md-saifur-rahman) | [Hackerrank](https://www.hackerrank.com/saifur_rahman111) | [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/18847)
 
 
-#### Projects 
+### Projects 
 1. OTL-ERP (Decision Points, Import, Export, Inventory/Warehouse, Merchandiser, Marketing Persons)
 2. CMP (Central Monitoring Panel)
 3. VR (Virtual Recharge)
@@ -27,7 +27,7 @@ Software Engineer with **4+** years experience in web app development. Skilled i
 
 
 
-#### Stacks:
+### Stacks:
 - Laravel API, MySQL, React
 - Laravel API, MySQL, Vue        
 - Laravel API, MySQL, Laravel Blade (Ajax)
@@ -35,7 +35,7 @@ Software Engineer with **4+** years experience in web app development. Skilled i
 - Raw PHP API
 
 
-#### Technology:
+### Technology:
 
 
 |Laravel|React|Vue|MySQL|Nodejs|Raw PHP |
