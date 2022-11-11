@@ -9,20 +9,20 @@ Software Engineer with **4+** years experience in web app development. Skilled i
 
 #### Projects 
 1. OTL-ERP (Decision Points, Import, Export, Inventory/Warehouse, Merchandiser, Marketing Persons)
-2. CMP
-3. VR
+2. CMP (Central Monitoring Panel)
+3. VR (Virtual Recharge)
 4. Embedded Push Pull
 5. Games
-6. PerfumehouseBD
-7. Medicine For World
-8. Rongila
-9. Maasranga & Radio Din Raat
+6. PerfumehouseBD (Single vendor perfume e-commerce)
+7. Medicine For World (Medicine e-commerce)
+8. Rongila (Online video streaming)
+9. Maasranga & Radio Din Raat 
 10. Banglalink SDP API integration
 11. Parmeeda Order Management System
 12. Ghoori Bkash
 13. Coke Studio Bangla Live Campaign
 14. Attendance Software: (Based on ZKTeco Device)
-15. Marks Dessert Queen
+15. Marks Dessert Queen (A campaign project)
 
 
 
