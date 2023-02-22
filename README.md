@@ -40,6 +40,6 @@ Software Engineer with **4+** years experience in web app development. Skilled i
 |Laravel|React|Vue|MySQL|Nodejs|Raw PHP |
 |-|-|-|-|-|-|
  
-
-
-
+ 
+ 
+![LeetCode Stats](https://leetcode.card.workers.dev/saifurrahman1193?theme=dark&font=baloo&extension=null)
