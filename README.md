@@ -42,4 +42,4 @@ Software Engineer with **4+** years experience in web app development. Skilled i
  
  
  
-![LeetCode Stats](https://leetcode.card.workers.dev/saifurrahman1193?theme=dark&font=baloo&extension=null)
+![Leetcode Stats](https://leetcard.jacoblin.cool/saifurrahman1193)
