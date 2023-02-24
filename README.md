@@ -47,6 +47,8 @@ Software Engineer with **4+** years experience in web application development. S
 |-|-|-|-|-|-|
  
  
+### Progressive Stats Report:
+
 | <h3><center><b>Leetcode Stats</b></center></h3> [![Leetcode Stats](https://leetcard.jacoblin.cool/saifurrahman1193?ext=activity&theme=nord)](https://leetcode.com/saifurrahman1193)| <h3><center><b>StackOverflow Stats</b></center></h3> [![Mohammad Saifur Rahman's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14350717&theme=dark)](https://stackoverflow.com/users/14350717/md-saifur-rahman) |
 | ----------------- | ------------------ |
 |  <h3><center><b>Github Stats</b></center></h3>  |
