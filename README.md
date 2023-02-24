@@ -43,3 +43,5 @@ Software Engineer with **4+** years experience in web application development. S
  
  
 [![Leetcode Stats](https://leetcard.jacoblin.cool/saifurrahman1193?ext=activity&theme=nord)](https://leetcode.com/saifurrahman1193)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifurrahman1193&hide=javascript,html,scss,stylus,blade,jupyter%20notebook&show_icons=true&theme=onedark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/saifurrahman1193))
