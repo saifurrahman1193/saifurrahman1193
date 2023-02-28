@@ -1,5 +1,5 @@
 ###  Mohammad Saifur Rahman
-**Software Associate** at **SSL Wireless** 
+**Software Specialist** at **SSL Wireless** 
 
 
 ### About Me
