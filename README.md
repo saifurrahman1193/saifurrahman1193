@@ -39,14 +39,13 @@ Software Engineer with **5+** years experience in web app development. Skilled i
 - Laravel API, MySQL, Vue        
 - Laravel API, MySQL, Laravel Blade (Ajax)
 - Nodejs API, MySQL, React
-- Raw PHP API
 
 
 ### Technology:
 
 
-|Laravel|React|Vue|MySQL|Nodejs|Raw PHP |Typescript|MongoDB|
-|-|-|-|-|-|-|-|-|
+|Laravel|React|Vue|MySQL|Nodejs|Typescript|MongoDB|
+|-|-|-|-|-|-|-|
  
  
 ### Progressive Stats Report:
