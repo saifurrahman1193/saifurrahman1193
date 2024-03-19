@@ -45,8 +45,8 @@ Software Engineer with **5+** years experience in web app development. Skilled i
 ### Technology:
 
 
-|Laravel|React|Vue|MySQL|Nodejs|Raw PHP |
-|-|-|-|-|-|-|
+|Laravel|React|Vue|MySQL|Nodejs|Raw PHP |Typescript|MongoDB|
+|-|-|-|-|-|-|-|-|
  
  
 ### Progressive Stats Report:
