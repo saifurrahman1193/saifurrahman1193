@@ -44,8 +44,8 @@ Software Engineer with **6+** years of experience in web app development. Skille
 ### Technology:
 
 
-|Laravel|React|Vue|MySQL|Nodejs|Typescript|MongoDB|
-|-|-|-|-|-|-|-|
+|Laravel|React|Vue|MySQL|MSSQL|Nodejs|Typescript|MongoDB|
+|-|-|-|-|-|-|-|-|
  
  
 ### Progressive Stats Report:
